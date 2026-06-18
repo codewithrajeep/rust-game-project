@@ -1,0 +1,8 @@
+[workspace]
+# members represent the projects in this workspace
+members = [
+    "guessing_game",
+    "todo_list",
+    # Add future projects here
+]
+resolver = "2"
