@@ -37,3 +37,20 @@ cargo run -p todo_list
 ```bash
 cargo build --workspace
 ```
+
+## Learning Journey
+
+This repository documents my progress through "The Rust Programming Language" book and other learning resources.
+
+- **Concepts Covered**: Ownership, Borrowing, Structs, Enums, Pattern Matching, Error Handling, Cargo Workspaces.
+- **Crates Used**: `rand` (for random number generation).
+
+### Structure
+
+- `/guessing_game`: Source code for guessing game.
+- `/todo_list`: Source code for the CLI to-do list.
+- `Cargo.toml`: Root workspace configuration file.
+
+### License
+
+This project is open-source and available under the MIT License.
