@@ -7,7 +7,7 @@ A collection of simple games and projects built while learning **Rust**. This re
 | Project                              | Description                                                    | Status         |
 | :----------------------------------- | :------------------------------------------------------------- | :------------- |
 | **[Guessing Game](./guessing_game)** | A classic number guessing game using random number generation. | ✅ Completed   |
-| **[To-Do List](./todo_list)**        | A command-line interface (CLI) to manage tasks.                | 🚧 In Progress |
+| **[To-Do List](./todo_list)**        | A command-line interface (CLI) to manage tasks.                | ✅ Completed   |
 
 ## Getting Started
 
