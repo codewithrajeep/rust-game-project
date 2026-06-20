@@ -3,6 +3,7 @@
 members = [
     "guessing_game",
     "todo_list",
+    "quiz_game",
     # Add future projects here
 ]
 resolver = "2"
